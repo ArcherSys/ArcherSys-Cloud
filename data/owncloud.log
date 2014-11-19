@@ -1,0 +1,1 @@
+{"app":"PHP","message":"touch(): Unable to create file \/home\/ubuntu\/workspace\/data\/owncloud.log because No such file or directory at \/home\/ubuntu\/workspace\/lib\/private\/log\/owncloud.php#49","level":3,"time":"2014-11-19T18:18:58+00:00"}

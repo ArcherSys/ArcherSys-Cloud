@@ -1,0 +1,13 @@
+{
+    "name": "archersy/archersys-cloud",
+    "description": "ArcherSys File System",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "acosf",
+            "email": "acosf2014.pdflint@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
