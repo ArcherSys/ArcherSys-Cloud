@@ -1,1 +1,1061 @@
 {"app":"PHP","message":"touch(): Unable to create file \/home\/ubuntu\/workspace\/data\/owncloud.log because No such file or directory at \/home\/ubuntu\/workspace\/lib\/private\/log\/owncloud.php#49","level":3,"time":"2014-11-19T18:18:58+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app bookmarks","level":4,"time":"2014-11-19T18:42:19+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app external","level":4,"time":"2014-11-19T18:42:22+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app user_external","level":4,"time":"2014-11-19T18:42:28+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app files_external","level":4,"time":"2014-11-19T18:42:32+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app user_ldap","level":4,"time":"2014-11-19T18:42:35+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app admin_dependencies_chk","level":4,"time":"2014-11-19T18:42:41+00:00"}
+{"app":"core","message":"App directory already exists","level":3,"time":"2014-11-19T18:43:10+00:00"}
+{"app":"core","message":"App can't be installed because the version in info.xml\/version is not the same as the version reported from the app store","level":3,"time":"2014-11-19T18:43:15+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app user_webdavauth","level":4,"time":"2014-11-19T18:43:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:43:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:43:21+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app files_encryption","level":4,"time":"2014-11-19T18:43:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:43:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:43:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:43:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:50:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:51:10+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:51:10+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:51:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:51:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:51:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:27+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:36+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:53:38+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:26+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:52+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:56:55+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:57:15+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:57:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:57:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:57:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:57:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:57:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:57:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:58:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:58:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:58:39+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:58:43+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:59:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T18:59:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:00:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:00:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:00:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:00:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:00:52+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:00:55+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:01:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:01:09+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:01:09+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T19:01:09+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:11:53+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:11:59+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:12:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:12:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:12:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:12:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:12:50+00:00"}
+{"app":"OC_USER_WEBDAVAUTH","message":"Invalid Url: \"\" ","level":3,"time":"2014-11-19T20:12:50+00:00"}
+{"app":"core","message":"Login failed: 'archerroot' (Remote IP: '10.240.71.173', X-Forwarded-For: '205.201.240.5')","level":2,"time":"2014-11-19T20:12:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:13:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:13:06+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:13:07+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:13:08+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:13:08+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:13:37+00:00"}
+{"app":"OC_USER_WEBDAVAUTH","message":"Invalid Url: \"\" ","level":3,"time":"2014-11-19T20:13:37+00:00"}
+{"app":"core","message":"Login failed: 'archerroot' (Remote IP: '10.240.71.173', X-Forwarded-For: '205.201.240.6')","level":2,"time":"2014-11-19T20:13:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:07+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:14+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:14:19+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:26+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:26+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:15:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:16:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:17:27+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:17:28+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app editdoc","level":4,"time":"2014-11-19T20:17:29+00:00"}
+{"app":"core","message":"No app name specified","level":3,"time":"2014-11-19T20:17:29+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:17:32+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app editdoc","level":4,"time":"2014-11-19T20:17:32+00:00"}
+{"app":"core","message":"No app name specified","level":3,"time":"2014-11-19T20:17:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:00+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app ocDashboard","level":4,"time":"2014-11-19T20:18:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:41+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:41+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:41+00:00"}
+{"app":"index","message":"Symfony\\Component\\Routing\\Exception\\RouteNotFoundException: Route \"ocDashboard_index\" does not exist.","level":4,"time":"2014-11-19T20:18:41+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:42+00:00"}
+{"app":"index","message":"Symfony\\Component\\Routing\\Exception\\RouteNotFoundException: Route \"ocDashboard_index\" does not exist.","level":4,"time":"2014-11-19T20:18:42+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:42+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:43+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:45+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app editdoc","level":4,"time":"2014-11-19T20:18:46+00:00"}
+{"app":"core","message":"No app name specified","level":3,"time":"2014-11-19T20:18:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:56+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:18:58+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:19+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:52+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:56+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:58+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:58+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:58+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:59+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:59+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:19:59+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:20:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:20:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:20:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:20:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:21:45+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:21:46+00:00"}
+{"app":"documents","message":"Pure configuration issue. Missing open office binary that is mandatory for conversion.","level":2,"time":"2014-11-19T20:21:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:14+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:15+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:15+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:15+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:19+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:19+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:19+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:22:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:26+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:35+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:36+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:39+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:40+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:43+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:23:43+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:06+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:07+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:14+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:24:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:25:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:25:53+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:25:55+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:26:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:52+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:52+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:26:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:27:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:27:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix s01): No LDAP Host given!","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix s01): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix s01): Not a single Base DN given.","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix s01): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:28:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:35+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:28:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:40+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:40+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:43+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:44+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:44+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:45+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:45+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:45+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:45+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:45+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:29:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Host given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"PHP","message":"Accessing static property OCA\\user_ldap\\lib\\Wizard::$l as non static at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"PHP","message":"Undefined property: OCA\\user_ldap\\lib\\Wizard::$l at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"PHP","message":"Call to a member function t() on a non-object at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-19T20:30:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:30:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:30:44+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:31:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:31:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:31:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:31:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:31:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:31:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:31:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:32:07+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:32:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:32:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:36:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:36:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:36:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:36:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:36:55+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166042","level":4,"time":"2014-11-19T20:37:10+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166038","level":4,"time":"2014-11-19T20:37:11+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166052","level":4,"time":"2014-11-19T20:37:12+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166050","level":4,"time":"2014-11-19T20:37:12+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166041","level":4,"time":"2014-11-19T20:37:13+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166053","level":4,"time":"2014-11-19T20:37:14+00:00"}
+{"app":"PHP","message":"Invalid argument supplied for foreach() at \/home\/ubuntu\/workspace\/lib\/private\/ocsclient.php#87","level":3,"time":"2014-11-19T20:37:14+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:35+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:36+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:36+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:36+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:44+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:44+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:47+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:49+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:48:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:19+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:49:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:04+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:50:04+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:50:04+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:50:04+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:50:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:50:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-19T20:50:06+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T20:50:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T22:13:42+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T22:14:09+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T22:18:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T22:18:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T22:19:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T22:19:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-19T22:19:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:17:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:17:48+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:18:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:18:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:18:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:18:54+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:18:54+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:18:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:03+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:14+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:23+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:19:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:20:59+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:05+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:09+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:18+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:33+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:35+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:21:36+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:21:36+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:21:36+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:21:36+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:21:38+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:00+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:01+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:04+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:14+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:15+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:22:15+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:22:15+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:22:15+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:22:15+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:22:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"PHP","message":"Accessing static property OCA\\user_ldap\\lib\\Wizard::$l as non static at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"PHP","message":"Undefined property: OCA\\user_ldap\\lib\\Wizard::$l at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"PHP","message":"Call to a member function t() on a non-object at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:23:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:24:51+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"PHP","message":"Accessing static property OCA\\user_ldap\\lib\\Wizard::$l as non static at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"PHP","message":"Undefined property: OCA\\user_ldap\\lib\\Wizard::$l at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"PHP","message":"Call to a member function t() on a non-object at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:24:53+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"PHP","message":"Accessing static property OCA\\user_ldap\\lib\\Wizard::$l as non static at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"PHP","message":"Undefined property: OCA\\user_ldap\\lib\\Wizard::$l at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"PHP","message":"Call to a member function t() on a non-object at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#949","level":3,"time":"2014-11-20T02:25:08+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:34:11+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:42:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:07+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:13+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:26+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:26+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:26+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:27+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:27+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:28+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:28+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:28+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:28+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:28+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:29+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:31+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:31+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:31+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:31+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:31+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Port given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_PROTOCOL_VERSION - assumed 'LDAP_OPT_PROTOCOL_VERSION' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1191","level":3,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_REFERRALS - assumed 'LDAP_OPT_REFERRALS' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1192","level":3,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_NETWORK_TIMEOUT - assumed 'LDAP_OPT_NETWORK_TIMEOUT' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1193","level":3,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_PROTOCOL_VERSION - assumed 'LDAP_OPT_PROTOCOL_VERSION' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1191","level":3,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_REFERRALS - assumed 'LDAP_OPT_REFERRALS' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1192","level":3,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_NETWORK_TIMEOUT - assumed 'LDAP_OPT_NETWORK_TIMEOUT' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1193","level":3,"time":"2014-11-20T02:43:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:54+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:54+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:54+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:54+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:54+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:54+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:54+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_PROTOCOL_VERSION - assumed 'LDAP_OPT_PROTOCOL_VERSION' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1191","level":3,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_REFERRALS - assumed 'LDAP_OPT_REFERRALS' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1192","level":3,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_NETWORK_TIMEOUT - assumed 'LDAP_OPT_NETWORK_TIMEOUT' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1193","level":3,"time":"2014-11-20T02:43:55+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:57+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:57+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:57+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:57+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:57+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:57+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:57+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_PROTOCOL_VERSION - assumed 'LDAP_OPT_PROTOCOL_VERSION' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1191","level":3,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_REFERRALS - assumed 'LDAP_OPT_REFERRALS' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1192","level":3,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_NETWORK_TIMEOUT - assumed 'LDAP_OPT_NETWORK_TIMEOUT' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1193","level":3,"time":"2014-11-20T02:43:58+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:44:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:44:06+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:06+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): Not a single Base DN given.","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:10+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:20+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:20+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:44:20+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:20+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:20+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:44:20+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:20+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_PROTOCOL_VERSION - assumed 'LDAP_OPT_PROTOCOL_VERSION' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1191","level":3,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_REFERRALS - assumed 'LDAP_OPT_REFERRALS' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1192","level":3,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_NETWORK_TIMEOUT - assumed 'LDAP_OPT_NETWORK_TIMEOUT' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1193","level":3,"time":"2014-11-20T02:44:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:24+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:24+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:25+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:25+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:30+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:30+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:30+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:30+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:30+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:32+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:32+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:32+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:32+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:32+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:44:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:45:09+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:45:09+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:45:09+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:45:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:45:10+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:45:10+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_PROTOCOL_VERSION - assumed 'LDAP_OPT_PROTOCOL_VERSION' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1191","level":3,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_REFERRALS - assumed 'LDAP_OPT_REFERRALS' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1192","level":3,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"PHP","message":"Use of undefined constant LDAP_OPT_NETWORK_TIMEOUT - assumed 'LDAP_OPT_NETWORK_TIMEOUT' at \/home\/ubuntu\/workspace\/apps\/user_ldap\/lib\/wizard.php#1193","level":3,"time":"2014-11-20T02:46:55+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:47:45+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:47:46+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:47:46+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:47:46+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:47:46+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:47:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:47:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:47:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:47:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:47:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:47:55+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:47:55+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:47:56+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:47:56+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:47:56+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:47:56+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:47:56+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:47:56+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:47:56+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:48:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:48:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:48:08+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:08+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:48:20+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:21+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:21+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:48:22+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:22+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:22+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:34+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:48:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:48:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): either no password is given for theuser agent or a password is given, but not anLDAP agent.","level":2,"time":"2014-11-20T02:48:50+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:50+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:48:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:48:53+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:48:53+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:49:02+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): No LDAP Login Filter given!","level":2,"time":"2014-11-20T02:49:02+00:00"}
+{"app":"user_ldap","message":"Configuration Error (prefix ): login filter does not contain %uid place holder.","level":2,"time":"2014-11-20T02:49:02+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:52:54+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:53:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:53:16+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:53:36+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:53:37+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:53:40+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:53:40+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:53:40+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:55:12+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:55:17+00:00"}
+{"app":"user_ldap","message":"user_ldap and user_webdavauth are incompatible. You may experience unexpected behaviour","level":2,"time":"2014-11-20T02:55:17+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166042","level":4,"time":"2014-11-20T02:57:33+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166038","level":4,"time":"2014-11-20T02:57:33+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166052","level":4,"time":"2014-11-20T02:57:34+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166050","level":4,"time":"2014-11-20T02:57:35+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166041","level":4,"time":"2014-11-20T02:57:35+00:00"}
+{"app":"core","message":"Invalid OCS content returned for app 166053","level":4,"time":"2014-11-20T02:57:36+00:00"}
+{"app":"PHP","message":"Invalid argument supplied for foreach() at \/home\/ubuntu\/workspace\/lib\/private\/ocsclient.php#87","level":3,"time":"2014-11-20T02:57:37+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:14:56+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:14:59+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:02+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:06+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:09+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:13+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:16+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:19+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:23+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:26+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:29+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:32+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:36+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:39+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:42+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:46+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:49+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:52+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:56+00:00"}
+{"app":"PHP","message":"Cannot modify header information - headers already sent at \/home\/ubuntu\/workspace\/lib\/private\/json.php#17","level":3,"time":"2014-11-20T03:15:59+00:00"}

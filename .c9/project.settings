@@ -2,7 +2,14 @@
     "run": {
         "@path": "/.c9/runners",
         "configs": {
-            "json()": {},
+            "json()": {
+                "ASOSCHTTPD": {
+                    "debug": true,
+                    "name": "ASOSCHTTPD",
+                    "command": "apache2 start",
+                    "runner": "Shell command"
+                }
+            },
             "@inited": "true"
         },
         "@runner": "Apache httpd (PHP, HTML)"
